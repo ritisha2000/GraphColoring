@@ -9,5 +9,5 @@ graph -n 100
 # Explanation
 The program creates a graph with random edges connecting the vertices then calculates the sparseness of the created graph to determine whether to use dense matrix or csr matrix.
 
-<img src="Dense_Algorithm.png" width="300">
-<img src="CSR_Algorithm.png" width="300">
+<img src="Dense_Algorithm.png" width="400">
+<img src="CSR_Algorithm.png" width="400">
